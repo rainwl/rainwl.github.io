@@ -1,7 +1,7 @@
 # Rain
 
 # PDCA
-[PDCA](http://rainwl.com/PDCA/)
+[PDCA](http://rainwl.com/PDCA/) [Daliy PDCA Project](https://github.com/users/rainwl/projects/2/views/2)
 
 # Mathematics
 [Mathematics](http://rainwl.com/Mathematics/)
